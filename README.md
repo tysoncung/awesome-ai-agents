@@ -4,9 +4,18 @@
 
 AI agents are autonomous systems powered by large language models (LLMs) that can perceive, reason, plan, and act to achieve goals. This list covers frameworks, tools, and resources for building production-ready AI agent systems.
 
+## What's New (January 2026)
+
+- **Claude Opus 4.5** - Anthropic's best model for agents with 80.9% SWE-bench
+- **OpenAI Operator** - Browser automation agent in research preview
+- **MCP (Model Context Protocol)** - Emerging standard for tool integration
+- **Devin GA** - Cognition's AI software engineer now generally available
+- **Multi-agent systems** - Production-ready frameworks becoming mainstream
+
 ## Contents
 
 - [Multi-Agent Frameworks](#multi-agent-frameworks)
+  - [Browser & Computer Use Agents](#browser--computer-use-agents)
 - [Agent Orchestration](#agent-orchestration)
 - [LLM Integration](#llm-integration)
 - [Tool & Function Calling](#tool--function-calling)
@@ -26,10 +35,20 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [AgentScope](https://github.com/modelscope/agentscope) - Easier multi-agent application development with LLMs.
 
 ### Autonomous Agents
+- [Devin](https://www.cognition.ai/devin) - Cognition's autonomous AI software engineer, now generally available.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source autonomous coding agent (formerly OpenDevin).
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental autonomous GPT-4 agent that chains tasks.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - AI-powered task management system using OpenAI and vector databases.
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want to build, AI asks clarifying questions, then builds it.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that assigns different roles to GPTs to form collaborative software entities.
+- [Goose](https://github.com/block/goose) - Block/Square's open-source AI agent with extensible toolkit system.
+
+### Browser & Computer Use Agents
+- [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's browser automation agent (research preview).
+- [Stagehand](https://www.stagehand.dev/) - AI browser automation built on Playwright with act/extract/observe primitives.
+- [browser-use](https://github.com/browser-use/browser-use) - Open-source Python framework for AI web automation.
+- [Skyvern](https://www.skyvern.com/) - Computer vision-based browser automation API.
+- [Anthropic Computer Use](https://docs.anthropic.com/en/docs/computer-use) - Claude's native computer use capability for GUI automation.
 
 ## Agent Orchestration
 
@@ -47,10 +66,10 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 ## LLM Integration
 
 ### Model Providers
-- [OpenAI API](https://platform.openai.com/docs/guides/gpt) - GPT-4, GPT-3.5 Turbo with function calling.
-- [Anthropic Claude](https://www.anthropic.com/claude) - Claude 3 Opus, Sonnet, Haiku with extended context.
-- [Google Gemini](https://ai.google.dev/) - Multimodal AI model with function calling.
-- [Ollama](https://ollama.ai/) - Run open-source LLMs locally (Llama 3, Mistral, etc.).
+- [OpenAI API](https://platform.openai.com/docs/guides/gpt) - GPT-5, GPT-4o, o1/o3 reasoning models with function calling.
+- [Anthropic Claude](https://www.anthropic.com/claude) - Claude Opus 4.5 (best for agents), Claude 3.5 Sonnet with 200K context.
+- [Google Gemini](https://ai.google.dev/) - Gemini 3 Pro with 1M+ context and function calling.
+- [Ollama](https://ollama.ai/) - Run open-source LLMs locally (Llama 3, Mistral, Qwen, etc.).
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving with PagedAttention.
 
 ### Agent-Specific Models
