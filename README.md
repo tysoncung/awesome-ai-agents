@@ -45,6 +45,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 
 ### Browser & Computer Use Agents
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's browser automation agent (research preview).
+- [OpenAgent](https://github.com/the-open-agent/openagent) - Self-hostable personal AI assistant with LLM, RAG, and agent loops; computer-use, browser-use, and coding agents; MCP and multi-model support ([demo](https://demo.openagentai.org)).
 - [Stagehand](https://www.stagehand.dev/) - AI browser automation built on Playwright with act/extract/observe primitives.
 - [browser-use](https://github.com/browser-use/browser-use) - Open-source Python framework for AI web automation.
 - [Skyvern](https://www.skyvern.com/) - Computer vision-based browser automation API.
