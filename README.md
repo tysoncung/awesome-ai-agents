@@ -128,6 +128,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [LangFuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - AI observability & evaluation.
 - [Helicone](https://www.helicone.ai/) - Open-source LLM observability platform.
+- [ax](https://github.com/Necmttn/ax) - Local-first evidence graph for coding-agent sessions, tool calls, skills, and cost.
 
 ## Learning Resources
 
