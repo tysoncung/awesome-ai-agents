@@ -45,6 +45,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce where a Commander plans goals and coordinates specialist agents through one conversation.
 
 ### Browser & Computer Use Agents
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent that executes natural-language web and mobile tests with persistent test memory and self-healing flows.
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's browser automation agent (research preview).
 - [OpenAgent](https://github.com/the-open-agent/openagent) - Self-hostable personal AI assistant with LLM, RAG, and agent loops; computer-use, browser-use, and coding agents; MCP and multi-model support ([demo](https://demo.openagentai.org)).
 - [Stagehand](https://www.stagehand.dev/) - AI browser automation built on Playwright with act/extract/observe primitives.
