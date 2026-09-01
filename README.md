@@ -59,6 +59,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Microsoft's SDK for integrating LLMs with conventional programming languages.
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end framework for building production-ready LLM applications.
 - [Composio](https://github.com/ComposioHQ/composio) - Integration platform for AI agents with 150+ tools.
+- [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) - Per-user Codex skill that runs complex work from a bounded dependency graph, records revisioned local state, reconciles uncertain work before retry, and reruns authored checks at closeout; specialists are optional.
 
 ### Task Management
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver) - Code-first framework for building LLM-powered autonomous agents.
