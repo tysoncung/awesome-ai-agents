@@ -43,6 +43,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that assigns different roles to GPTs to form collaborative software entities.
 - [Goose](https://github.com/block/goose) - Block/Square's open-source AI agent with extensible toolkit system.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce where a Commander plans goals and coordinates specialist agents through one conversation.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries; each task gets a dedicated branch/worktree and the merge queue owns risk-based review. Orchestrates Pi and Codex subagents; MIT, on npm as @yylo/cli.
 
 ### Browser & Computer Use Agents
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's browser automation agent (research preview).
