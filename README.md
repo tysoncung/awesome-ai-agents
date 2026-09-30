@@ -31,6 +31,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for building multi-agent conversational systems.
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Cutting-edge framework for orchestrating role-playing autonomous AI agents.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Build stateful multi-actor applications with LLMs using graph-based workflows.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Python framework for multi-agent routing, checkpointed workflows, and persistent dynamic DAGs with concurrent workers, restart recovery, and verification-gated artifacts.
 - [Swarm](https://github.com/openai/swarm) - OpenAI's educational framework for exploring lightweight multi-agent orchestration.
 - [AgentScope](https://github.com/modelscope/agentscope) - Easier multi-agent application development with LLMs.
 
