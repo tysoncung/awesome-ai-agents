@@ -86,6 +86,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) - Hugging Face toolkit for building agents.
 
 ### Tool Integration
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - MIT-licensed local CLI and stdio MCP payment tools for AI agents, with owner-set limits and operation receipts on macOS Apple Silicon.
 - [n8n](https://github.com/n8n-io/n8n) - Workflow automation with AI capabilities and 400+ integrations.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Zapier AI Actions](https://actions.zapier.com/) - Expose Zapier actions to LLMs.
