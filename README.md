@@ -90,6 +90,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [Zapier AI Actions](https://actions.zapier.com/) - Expose Zapier actions to LLMs.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - Visual builder for AI workflows.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Open API with no key at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 
 ## Memory & State Management
 
