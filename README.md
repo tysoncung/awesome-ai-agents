@@ -142,6 +142,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 ### Books
 - [Building LLM Apps](https://www.oreilly.com/library/view/building-llm-apps/9781098150952/) - O'Reilly guide to LLM application development.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) - Comprehensive prompt engineering resource.
+- [The Claw AI Agent Ecosystem](https://www.amazon.com/dp/B0GT7NBZV3) - Designing, operating, and securing self-hosted, always-on AI agents (Ava S. Barron, 2026).
 
 ### Communities
 - [LangChain Discord](https://discord.gg/langchain) - LangChain community.
